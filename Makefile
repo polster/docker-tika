@@ -1,6 +1,6 @@
 DOCKER_TAG=polster/docker-tika
 DOCKER_NAME=tika-server
-TIKA_SERVER_HOST=localhost
+TIKA_SERVER_HOST=127.0.0.1
 TIKA_SERVER_PORT=9998
 
 docker-build:
